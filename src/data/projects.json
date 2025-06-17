@@ -1,7 +1,7 @@
 [
   {
     "title": "Pothole Detection in Rainy Weather",
-    "imageSrc": "projects/Pothole.png",
+    "imageSrc": "/assets/projects/Pothole.png",
     "description": "A real-time pothole detection system using YOLOv8 and OpenCV, trained on 1000+ annotated rainy and clear images with 90% accuracy. Enhances safety in autonomous driving under poor weather conditions.",
     "skills": ["Python", "YOLOv8", "OpenCV", "CNN"],
     "demo": "https://www.example.com",
@@ -9,7 +9,7 @@
   },
   {
     "title": "Anomaly Detection in IoT Using VAE",
-    "imageSrc": "projects/Anomaly.jpg",
+    "imageSrc": "/assets/projects/Anomaly.jpg",
     "description": "Built a deep learning model using Variational Autoencoders (VAE) to detect anomalies in 8 types of IoT sensor data. Achieved 97% accuracy and improved fault detection by 40%.",
     "skills": ["Python", "TensorFlow", "VAE", "IoT"],
     "demo": "https://www.example.com",
@@ -17,7 +17,7 @@
   },
   {
     "title": "Student Performance Prediction",
-    "imageSrc": "projects/Student1.jpg",
+    "imageSrc": "/assets/projects/Student1.jpg",
     "description": "Developed a machine learning model to predict student performance based on academic, demographic, and behavioral data using classification techniques like Decision Trees and Logistic Regression.",
     "skills": ["Python", "Scikit-learn", "Pandas", "ML"],
     "demo": "https://www.example.com",
