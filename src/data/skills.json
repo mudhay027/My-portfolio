@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Python",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Machine Learning",
+    "imageSrc": "skills/ml.png"
+  },
+  {
+    "title": "Deep Learning",
+    "imageSrc":"skills/node.png"
+  },
+  {
+    "title": "PowerBI",
+    "imageSrc": "skills/graphql.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Django",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Streamlit",
+    "imageSrc": "skills/Streamlit.png"
+  }
+  
+
+]
